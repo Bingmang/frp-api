@@ -19,5 +19,5 @@ then the `/opt/frp/frpc.ini` will be changed to
 [test]
 local_ip = 202.204.62.62
 local_port = 8000
-remote_port = 10001 # randomly generate
+remote_port = 10001 # randomly generate [10001, 19999)
 ```
